@@ -1,0 +1,18 @@
+25-02-2025 (26-02-2025 1:30)
+
+1. solved bugs regarding grievance project from GitHub
+2. staff portal complaint bug solved.
+3. staff can add comment.
+4. superuser created and admin.py set.
+5. sort and filter options added to dashboard.
+
+
+can we tamper this whole code and system given to convert it and make it work like a COMPLAINT MANAGEMENT SYSTEM for a Laboratory??? 
+the complaint management system has 3 users + 1 admin. 
+
+1. Student: logs in if account is present or registers and creates new account. registers the complaint regarding the problem he/she is facing. let it be about equipment, technical, or anything. can see logs of complaints he had registered, containing the title of complaint, when it was done, current status, etc. can assign or register complaint which is only assigned to the technical staff. 
+
+2. Technical assistant of staff: logs in if account is present or registers and creates new account. can view the complaints registered by students and the details of the complaints. can change its status to "not processed" or "in progress" or "terminated". if the complaint is serious or time consuming or of very high priority, he can forward and assign it to the HOD of department.
+
+3. HOD (head of dept.): logs in if account is present or registers and creates new account. can view the complaints registered by students and the details of the complaints and status of the complaints. has a separate section which displays complaints forwarded/assigned to him from technical staff. he can see student details, technical staff details, complaint details. can change status of the complaints registered.
+
